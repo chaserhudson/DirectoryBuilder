@@ -24,3 +24,6 @@ To get started with DirectoryBuilder, you can clone this repository and run the 
 We welcome contributions from the open-source community. If you have any suggestions for improvements or new features, feel free to fork this repository and create a pull request.
 
 
+It's super basic, but it would be cool to see it develop. 
+
+Even if you have never pull request... here is a good repo to do your first
